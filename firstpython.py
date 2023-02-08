@@ -1,3 +1,3 @@
 #Display the output
 
-print("new Python File@)
+print("new Python File")
